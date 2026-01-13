@@ -1,0 +1,6 @@
+@Asuncion.Backend.Traceability_HostAddress = http://localhost:5106
+
+GET {{Asuncion.Backend.Traceability_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
